@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "planty",
+      "image": "https://www.journalaprj.com/public/journals/28/homepageImage_en_US.png",
+      "price": "20",
+      "id": 8
+    },
+    {
+      "name": "planty",
+      "image": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2019/10/Growing-Basil-in-Water.jpg.webp",
+      "price": "20",
+      "id": 9
+    },
+    {
+      "name": "basil",
+      "image": "https://balconygardenweb-lhnfx0beomqvnhspx.netdna-ssl.com/wp-content/uploads/2019/10/Growing-Basil-in-Water.jpg.webp",
+      "price": "20",
+      "id": 10
     }
   ]
 }
